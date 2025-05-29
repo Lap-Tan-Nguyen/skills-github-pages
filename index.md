@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+title: Lap Nguyen coding blogs!
 ---
